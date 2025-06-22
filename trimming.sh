@@ -14,7 +14,7 @@ mkdir -p "$output_dir"
 
 # Run Trimmomatic for each sample in the list
 for sample in $(cat "$sample_list"); do
-  echo "🔧 Trimming sample: $sample"
+  echo "Trimming sample: $sample"
   
   java -jar path/to/trimmomatic-0.39.jar PE -threads 4 \
     "$input_dir/${sample}_1.fastq" "$input_dir/${sample}_2.fastq" \
