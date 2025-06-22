@@ -1,6 +1,6 @@
 # QC, Trimming, and Assembly Pipeline for NCLDV Data
 
-This repository contains shell scripts to perform quality control, trimming, and assembly of metagenomic sequencing data related to NCLDV (Nucleocytoplasmic Large DNA Viruses) research.
+This repository contains shell scripts to perform quality control, trimming, and assembly of metagenomic sequencing data 
 
 ## Overview
 
