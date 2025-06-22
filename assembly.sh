@@ -6,8 +6,8 @@
 
 
 # Define input and output paths
-input_r1="path/to/your/sample_R1.fastq"
-input_r2="path/to/your/sample_R2.fastq"
+input_r1="path/to/your_trimmed/sample_R1.fastq"
+input_r2="path/to/your_trimmed/sample_R2.fastq"
 output_dir="path/to/your/output_directory"
 
 # Create output directory if it doesn't exist
